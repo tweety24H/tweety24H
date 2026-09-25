@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Ayat.
 
-<!--
-**tweety24H/tweety24H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product designer and developer based in Iraq. I work on websites and mobile applications — handling everything from UI/UX design to development and deployment.
 
-Here are some ideas to get you started:
+My work focuses on building clean, fast, and easy-to-use products. I care about the details, from layout and typography to performance and code quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do**
+- UI/UX Design
+- Web Development
+- Mobile App Development
+
+**Tools I use**
+Figma / TypeScript / React / Next.js / Tailwind CSS / Node.js
+
+**Contact**
+Instagram: @tweety_h9
+
+Currently available for new projects.
